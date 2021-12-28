@@ -1,4 +1,4 @@
-from typing import no_type_check
+# from typing import no_type_check
 import cv2
 import numpy as np
 
@@ -25,5 +25,5 @@ print(source.astype('uint8'))
 source = source.astype('uint8')
 
 
-
+print(source)
 
